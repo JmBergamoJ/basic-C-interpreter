@@ -99,7 +99,7 @@ char *find_func(char *name);
 
 int main(int argc, char*argv[]){
     if(argc != 2){
-        printf("Use: littlec <filename>\n");
+        printf("Use: interp <filename>\n");
         exit(1);
     }
 
