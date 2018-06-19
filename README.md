@@ -13,3 +13,5 @@ gcc CINTERP.c PARSER.o CILIB.o -o interp.exe
 It uses command line arguments to run a source code:
 
 ```interp mySourceCode.c```
+
+To show all the features of this interpreter, I've also added a test program.
